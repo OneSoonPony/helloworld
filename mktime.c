@@ -1,7 +1,7 @@
 /*
  *  linux/kernel/mktime.c
  *
- *  (C) 1991  Linus Torvalds
+ *  (C) 2016 OneSoonPony
  */
 
 #include <time.h>
